@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aravindkrishnans
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on kubernetes
+- 🌱 I’m currently working and learning Devops
 - 📫 How to reach me aravindkrishnan19@gmail.com
 
 <!---
